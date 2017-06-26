@@ -69,8 +69,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:git
-  repo:https://github.com/phpjoe/phpjoe.github.io.git
+  repo:git@github.com:phpjoe/phpjoe.github.io.git
   branch:master
-  name:'phpjoe'
-  email:'phpjoe@hotmail.com'
-  message:'部署'
